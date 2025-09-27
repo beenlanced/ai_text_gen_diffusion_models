@@ -1,7 +1,7 @@
 # Generative AI: Introduction to Diffusion Models for Text Generation
 
 <div align="center">
-    <img alt="Generative AI Diffusion Models for Text Generation" src="./imgs/text_diffusion.png" width="100%" height="200">
+    <img alt="Generative AI Diffusion Models for Text Generation" src="./imgs/text_diffusion.png" width="50%" height="200">
 </div>
 
 [img source:](https://matstoian.com/)
