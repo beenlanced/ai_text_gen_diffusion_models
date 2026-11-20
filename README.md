@@ -13,7 +13,7 @@
 
 The project comes from the on-line course: [Generative AI: Introduction to Diffusion Models for Text Generation](https://www.linkedin.com/learning/generative-ai-introduction-to-diffusion-models-for-text-generation/what-is-natural-language-generation-29723010?autoSkip=true&resume=false&u=35754684).
 
-It introduces you to diffusion models, which are popular with image generation, and how you can apply these models in natural language generation (NLG) tasks. It explores how diffusion models work as an alternative to traditional autoregressive approaches and develop your understanding of their unique advantages in generating diverse and controllable text outputs.
+It introduces you to diffusion models, which are popular with image generation, and how you can apply these models in natural language generation (NLG) tasks. It explores how diffusion models work as an alternative to traditional autoregressive approaches and develops your understanding of their unique advantages in generating diverse and controllable text outputs.
 
 ### What It Involves
 
@@ -25,7 +25,7 @@ In Google Colab Python based notebooks, I built and fine-tuned text diffusion mo
 
 - Compared and contrasted diffusion models with autoregressive models for text generation, clearly articulating the distinct advantages and challenges of each approach.
 
-- Buillt a basic text diffusion model from scratch, utilizing pre-trained BERT embeddings and understanding the essential roles of noise addition, denoising, and text decoding.
+- Built a basic text diffusion model from scratch, utilizing pre-trained BERT embeddings and understanding the essential roles of noise addition, denoising, and text decoding.
 
 - Fine-tuned a diffusion model to perform conditional text generation, enabling the model to produce text aligned with specific prompts or contextual inputs.
 
